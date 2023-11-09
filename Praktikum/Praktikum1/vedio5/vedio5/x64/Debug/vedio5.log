@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\MP\source\repos\Praktikum1\vedio5\vedio5\main.cpp(45,59): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MP\source\repos\Praktikum1\vedio5\vedio5\main.cpp(45,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MP\source\repos\Praktikum1\vedio5\vedio5\main.cpp(50,60): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MP\source\repos\Praktikum1\vedio5\vedio5\main.cpp(50,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MP\source\repos\Praktikum1\vedio5\vedio5\main.cpp(62,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  vedio5.vcxproj -> C:\Users\MP\source\repos\Praktikum1\vedio5\x64\Debug\vedio5.exe

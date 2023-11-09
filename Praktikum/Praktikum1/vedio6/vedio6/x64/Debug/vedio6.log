@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\MP\source\repos\Praktikum1\vedio6\vedio6\main.cpp(160,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  vedio6.vcxproj -> C:\Users\MP\source\repos\Praktikum1\vedio6\x64\Debug\vedio6.exe
